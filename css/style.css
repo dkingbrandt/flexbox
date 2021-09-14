@@ -1,0 +1,10 @@
+.container {
+    border:1px solid black;
+    height: 300px;
+    width: 30%;
+
+}
+
+section{
+    border: 1px solid black;
+}
