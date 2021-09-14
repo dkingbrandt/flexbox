@@ -1,0 +1,28 @@
+.container {
+    border:1px solid black;
+    height: 300px;
+    width: 30%;
+
+}
+
+section{
+    border: 1px solid black;
+    /* height: 50px;
+    width: 50px; */
+}
+
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:nowrap;
+    flex-flow: row wrap;
+
+    justify-content: flex-start ;
+    align-items:stretch;
+    align-content: normal;
+    gap: 10px;
+    gap: 10px 20px;
+    row-gap: 10px;
+    column-gap: 20px;
+}
